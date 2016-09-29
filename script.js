@@ -3,7 +3,7 @@
 //maps from acronym to meaning
 var myMap = {};
 
-$.getJSON(chrome.extension.getURL('acronyms24k.json'), function(data) {
+$.getJSON('https://raw.githubusercontent.com/maliska/NASA-Acronyms/externalDatabase/acronyms24k.json', function(data) {
     for(var i = 0; i < data.length; i++) {
         var abbrev = data[i]['abbreviation'].toLowerCase();
         if(myMap[abbrev] === undefined)
