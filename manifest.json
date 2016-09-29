@@ -14,17 +14,12 @@
       "js": ["jquery-3.1.0.min.js",
               "jquery-ui.min.js",
               "jquery.qtip.min.js",
-              "script.js",
-              "acronyms24k.json"
+              "script.js"
             ],
       "css": ["jquery-ui.min.css",
               "jquery.qtip.min.css"
             ]
     }
-  ],
-
-  "web_accessible_resources": [
-    "acronyms24k.json"
   ],
 
   "permissions": [
