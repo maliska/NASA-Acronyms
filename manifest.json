@@ -29,7 +29,7 @@
 
   "permissions": [
     "activeTab",
-    "https://raw.githubusercontent.com/maliska/NASA-Acronyms/externalDatabase"
+    "https://raw.githubusercontent.com/maliska/NASA-Acronyms/master"
   ],
 
   "icons": {
