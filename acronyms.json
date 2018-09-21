@@ -4709,6 +4709,10 @@
   },
   {
     "abbreviation": "APAT",
+    "expansion": "Application Portfolio Assessment Tool"
+  },
+  {
+    "abbreviation": "APAT",
     "expansion": "Acquisition Procurement Advisory Team"
   },
   {
@@ -5229,7 +5233,7 @@
   },
   {
     "abbreviation": "AQT",
-    "expansion": "Association Qu√©becoise de T√©l√©d√©tection"
+    "expansion": "Association QuÈbecoise de TÈlÈdÈtection"
   },
   {
     "abbreviation": "AQUE",
@@ -6162,6 +6166,10 @@
   {
     "abbreviation": "ASFUWG",
     "expansion": "ASF User Working Group"
+  },
+  {
+    "abbreviation": "ASGSR",
+    "expansion": "American Society for Gravitational and Space Research"
   },
   {
     "abbreviation": "ASHRAE",
@@ -8385,6 +8393,10 @@
   },
   {
     "abbreviation": "BEST",
+    "expansion": "Biomolecule Extraction and Sequencing Technology"
+  },
+  {
+    "abbreviation": "BEST",
     "expansion": "Behavior Excellence Strategic Team"
   },
   {
@@ -8854,6 +8866,10 @@
   {
     "abbreviation": "BMCC",
     "expansion": "Boeing Mission Commission Control"
+  },
+  {
+    "abbreviation": "BMCI",
+    "expansion": "Bayesian Monte Carlo Integration"
   },
   {
     "abbreviation": "BMD",
@@ -10413,7 +10429,7 @@
   },
   {
     "abbreviation": "CAI",
-    "expansion": "Calcium‚ÄìAluminum-rich Inclusion"
+    "expansion": "CalciumñAluminum-rich Inclusion"
   },
   {
     "abbreviation": "CAI",
@@ -12813,7 +12829,7 @@
   },
   {
     "abbreviation": "CEA",
-    "expansion": "Commissariat √† l'√©nergie atomique et aux √©nergies alternatives"
+    "expansion": "Commissariat ‡ l'Ènergie atomique et aux Ènergies alternatives"
   },
   {
     "abbreviation": "CEA",
@@ -13125,7 +13141,7 @@
   },
   {
     "abbreviation": "CERN",
-    "expansion": "Conseil Europ√©en pour la Recherche Nucl√©aire"
+    "expansion": "Conseil EuropÈen pour la Recherche NuclÈaire"
   },
   {
     "abbreviation": "CERR",
@@ -13177,7 +13193,7 @@
   },
   {
     "abbreviation": "CESBIO",
-    "expansion": "Centre d'Etudes Spatiales de la BIOsph√®re"
+    "expansion": "Centre d'Etudes Spatiales de la BIOsphËre"
   },
   {
     "abbreviation": "CESDIS",
@@ -14421,7 +14437,7 @@
   },
   {
     "abbreviation": "CITEL",
-    "expansion": "Comisi√≥n Interamericana de Telecomunicaciones"
+    "expansion": "ComisiÛn Interamericana de Telecomunicaciones"
   },
   {
     "abbreviation": "CITSM",
@@ -14558,6 +14574,10 @@
   {
     "abbreviation": "CLARREO",
     "expansion": "Climate Absolute Radiance and Refractivity Observatory"
+  },
+  {
+    "abbreviation": "CLAS",
+    "expansion": "Convergence Layer Adapter"
   },
   {
     "abbreviation": "CLASS",
@@ -15461,7 +15481,7 @@
   },
   {
     "abbreviation": "CNES",
-    "expansion": "Centre National d‚Äô√âtudes Spatiales"
+    "expansion": "Centre National dí…tudes Spatiales"
   },
   {
     "abbreviation": "CNG",
@@ -15478,6 +15498,10 @@
   {
     "abbreviation": "CNMOS",
     "expansion": "Consolidated Network and Mission Operations Support"
+  },
+  {
+    "abbreviation": "CNN",
+    "expansion": "Convolutional Neural Network"
   },
   {
     "abbreviation": "CNN",
@@ -18565,7 +18589,7 @@
   },
   {
     "abbreviation": "CTIG",
-    "expansion": "Chamber ‚Äì Test Integration Group"
+    "expansion": "Chamber ñ Test Integration Group"
   },
   {
     "abbreviation": "CTIL",
@@ -19030,6 +19054,10 @@
   {
     "abbreviation": "CVT",
     "expansion": "Current Value Table"
+  },
+  {
+    "abbreviation": "CVT",
+    "expansion": "Chemical Vapor Transport"
   },
   {
     "abbreviation": "CVTS",
@@ -20096,7 +20124,7 @@
     "expansion": "Decibels of Z"
   },
   {
-    "abbreviation": "dB¬µVm",
+    "abbreviation": "dBµVm",
     "expansion": "Decibel relative to one microvolt per meter"
   },
   {
@@ -21833,7 +21861,7 @@
   },
   {
     "abbreviation": "DLR",
-    "expansion": "Deutsches Zentrum f√ºr Luft- und Raumfahrt"
+    "expansion": "Deutsches Zentrum f¸r Luft- und Raumfahrt"
   },
   {
     "abbreviation": "DLR",
@@ -24244,10 +24272,6 @@
     "expansion": "Eastern Daylight Time"
   },
   {
-    "abbreviation": "e.g.",
-    "expansion": "Exemplƒ´ GrƒÅtiƒÅ"
-  },
-  {
     "abbreviation": "E/E",
     "expansion": "Electrical and Electronics"
   },
@@ -26152,6 +26176,10 @@
     "expansion": "European Geosciences Union"
   },
   {
+    "abbreviation": "EGV",
+    "expansion": "Exit Guide Vane"
+  },
+  {
     "abbreviation": "EH",
     "expansion": "Eagle Horizon"
   },
@@ -26953,7 +26981,7 @@
   },
   {
     "abbreviation": "EML2",
-    "expansion": "Earth‚ÄìMoon LaGrange Orbit 2"
+    "expansion": "EarthñMoon LaGrange Orbit 2"
   },
   {
     "abbreviation": "EMLS",
@@ -27205,7 +27233,7 @@
   },
   {
     "abbreviation": "ENSO",
-    "expansion": "El Ni√±o Southern Oscillation"
+    "expansion": "El NiÒo Southern Oscillation"
   },
   {
     "abbreviation": "ENSO",
@@ -27833,7 +27861,7 @@
   },
   {
     "abbreviation": "EPFL",
-    "expansion": "√âcole Polytechnique F√©d√©rale de Lausanne"
+    "expansion": "…cole Polytechnique FÈdÈrale de Lausanne"
   },
   {
     "abbreviation": "EPFOL",
@@ -28809,11 +28837,11 @@
   },
   {
     "abbreviation": "ESL1",
-    "expansion": "Earth ‚Äì Sun LaGrange One"
+    "expansion": "Earth ñ Sun LaGrange One"
   },
   {
     "abbreviation": "ESL2",
-    "expansion": "Earth ‚Äì Sun LaGrange 2"
+    "expansion": "Earth ñ Sun LaGrange 2"
   },
   {
     "abbreviation": "ESM",
@@ -29369,7 +29397,7 @@
   },
   {
     "abbreviation": "ETH",
-    "expansion": "Eidgen√∂ssische Technische Hochschule"
+    "expansion": "Eidgenˆssische Technische Hochschule"
   },
   {
     "abbreviation": "ETHOS",
@@ -33861,7 +33889,7 @@
   },
   {
     "abbreviation": "FSO",
-    "expansion": "Flight Surgeons‚Äô Office"
+    "expansion": "Flight Surgeonsí Office"
   },
   {
     "abbreviation": "FSOP",
@@ -36245,7 +36273,7 @@
   },
   {
     "abbreviation": "GNUG",
-    "expansion": "Ground Network Users‚Äô Guide"
+    "expansion": "Ground Network Usersí Guide"
   },
   {
     "abbreviation": "GO",
@@ -36861,7 +36889,7 @@
   },
   {
     "abbreviation": "GRAM",
-    "expansion": "Global Reference Atmosphere Model"
+    "expansion": "Global Reference Atmospheric Model"
   },
   {
     "abbreviation": "GRAMS",
@@ -38533,7 +38561,7 @@
   },
   {
     "abbreviation": "HED",
-    "expansion": "Howardite‚ÄìEucrite‚ÄìDiogenite"
+    "expansion": "HowarditeñEucriteñDiogenite"
   },
   {
     "abbreviation": "HEDS",
@@ -40101,7 +40129,7 @@
   },
   {
     "abbreviation": "HRV",
-    "expansion": "Haute R√©solution dans le Visible"
+    "expansion": "Haute RÈsolution dans le Visible"
   },
   {
     "abbreviation": "HRV",
@@ -42857,7 +42885,7 @@
   },
   {
     "abbreviation": "IFREMER",
-    "expansion": "Institut Fran√ßais de Recherche pour l'exploitation de la Mer"
+    "expansion": "Institut FranÁais de Recherche pour l'exploitation de la Mer"
   },
   {
     "abbreviation": "IFS",
@@ -49553,7 +49581,7 @@
   },
   {
     "abbreviation": "LATMOS",
-    "expansion": "Laboratoire Atmosph√®res, Milieux, Observations Spatiales"
+    "expansion": "Laboratoire AtmosphËres, Milieux, Observations Spatiales"
   },
   {
     "abbreviation": "LATMOS",
@@ -52533,6 +52561,10 @@
   },
   {
     "abbreviation": "LSF",
+    "expansion": "Low Stratus and Fog"
+  },
+  {
+    "abbreviation": "LSF",
     "expansion": "Line Spread Function"
   },
   {
@@ -53664,6 +53696,10 @@
     "expansion": "Multi-Angle Imager for Aerosols"
   },
   {
+    "abbreviation": "MAIANSE",
+    "expansion": "MUREP for American Indian and Alaska Native STEM Engagement"
+  },
+  {
     "abbreviation": "MAIF",
     "expansion": "MSS Avionics Integration Facility"
   },
@@ -54214,6 +54250,10 @@
   {
     "abbreviation": "MBM",
     "expansion": "Manual Berthing Mechanism"
+  },
+  {
+    "abbreviation": "MBMA",
+    "expansion": "Model Based Mission Assurance"
   },
   {
     "abbreviation": "MBMS",
@@ -60748,11 +60788,11 @@
     "expansion": "Maximum Zero Fuel Weight"
   },
   {
-    "abbreviation": "M\\&FM",
+    "abbreviation": "M\&FM",
     "expansion": "Mission and Fault Management"
   },
   {
-    "abbreviation": "M‚Ä¢√Ä_√≥¬ªINT",
+    "abbreviation": "Mï¿_ÛªINT",
     "expansion": "Maintenance Interplane"
   },
   {
@@ -64041,7 +64081,7 @@
   },
   {
     "abbreviation": "NS",
-    "expansion": "Navier‚ÄìStokes"
+    "expansion": "NavierñStokes"
   },
   {
     "abbreviation": "NSA",
@@ -65045,7 +65085,7 @@
   },
   {
     "abbreviation": "OBC-BB",
-    "expansion": "On-Board Calibration ‚Äì Black Body"
+    "expansion": "On-Board Calibration ñ Black Body"
   },
   {
     "abbreviation": "OBCC",
@@ -75897,6 +75937,10 @@
   },
   {
     "abbreviation": "PVD",
+    "expansion": "Physical Vapor Deposition"
+  },
+  {
+    "abbreviation": "PVD",
     "expansion": "Purge, Vent, and Drain"
   },
   {
@@ -76957,7 +77001,7 @@
   },
   {
     "abbreviation": "RAAS",
-    "expansion": "Renin‚ÄìAngiotensin‚ÄìAldosterone System"
+    "expansion": "ReninñAngiotensinñAldosterone System"
   },
   {
     "abbreviation": "RAB",
@@ -77341,7 +77385,7 @@
   },
   {
     "abbreviation": "RAS",
-    "expansion": "Renin‚ÄìAngiotensin System"
+    "expansion": "ReninñAngiotensin System"
   },
   {
     "abbreviation": "RASA",
@@ -77589,7 +77633,7 @@
   },
   {
     "abbreviation": "RCC",
-    "expansion": "Reinforced Carbon‚ÄìCarbon"
+    "expansion": "Reinforced CarbonñCarbon"
   },
   {
     "abbreviation": "RCC",
@@ -80613,7 +80657,7 @@
   },
   {
     "abbreviation": "RSB",
-    "expansion": "Rudder SpeedBreak"
+    "expansion": "Research Support Building"
   },
   {
     "abbreviation": "RSB",
@@ -82525,7 +82569,7 @@
   },
   {
     "abbreviation": "SAOZ",
-    "expansion": "Syst√®me d'Analyse par Observations Z√©nithales"
+    "expansion": "SystËme d'Analyse par Observations ZÈnithales"
   },
   {
     "abbreviation": "SAP",
@@ -86080,6 +86124,10 @@
     "expansion": "Scheduling Order"
   },
   {
+    "abbreviation": "SHOC",
+    "expansion": "Simplified Higher Order Closure"
+  },
+  {
     "abbreviation": "SHOD",
     "expansion": "Spacehab Operations Director"
   },
@@ -86133,7 +86181,7 @@
   },
   {
     "abbreviation": "SI",
-    "expansion": "Le Syst√®me international d'unit√©s International System of Units"
+    "expansion": "Le SystËme international d'unitÈs International System of Units"
   },
   {
     "abbreviation": "SI",
@@ -86145,7 +86193,7 @@
   },
   {
     "abbreviation": "SI",
-    "expansion": "Syst√®me international d'unit√©s"
+    "expansion": "SystËme international d'unitÈs"
   },
   {
     "abbreviation": "SI",
@@ -86237,7 +86285,7 @@
   },
   {
     "abbreviation": "SIASGE",
-    "expansion": "Sistema Italo-Argentino de Sat√©lites protects Gesti√≥n de Emergencias"
+    "expansion": "Sistema Italo-Argentino de SatÈlites protects GestiÛn de Emergencias"
   },
   {
     "abbreviation": "SIASS",
@@ -89473,7 +89521,7 @@
   },
   {
     "abbreviation": "SPOT",
-    "expansion": "Satellite Pour l‚ÄôObservation de la Terre"
+    "expansion": "Satellite Pour líObservation de la Terre"
   },
   {
     "abbreviation": "SPOT",
@@ -92722,6 +92770,10 @@
   {
     "abbreviation": "SVLBI",
     "expansion": "Space Very Long Baseline Interferometry"
+  },
+  {
+    "abbreviation": "SVM",
+    "expansion": "Support Vector Machine"
   },
   {
     "abbreviation": "SVMF",
@@ -96116,6 +96168,10 @@
     "expansion": "Technology Management Team"
   },
   {
+    "abbreviation": "TMT",
+    "expansion": "Thermal Management Technologies"
+  },
+  {
     "abbreviation": "TMTA",
     "expansion": "Thermal Manipulation Module"
   },
@@ -97725,7 +97781,7 @@
   },
   {
     "abbreviation": "TUB",
-    "expansion": "Technische Universit√§t Berlin"
+    "expansion": "Technische Universit‰t Berlin"
   },
   {
     "abbreviation": "TUBSS",
@@ -98658,6 +98714,10 @@
   {
     "abbreviation": "UIR",
     "expansion": "Upwelling Infrared Radiometer"
+  },
+  {
+    "abbreviation": "UIS",
+    "expansion": "User Interface Services"
   },
   {
     "abbreviation": "UIS",
@@ -102416,6 +102476,10 @@
     "expansion": "Watchdog Timer"
   },
   {
+    "abbreviation": "WATER",
+    "expansion": "Website, Application, and Technology Enterprise Registry"
+  },
+  {
     "abbreviation": "WATR",
     "expansion": "Western Aeronautical Test Range"
   },
@@ -102430,6 +102494,10 @@
   {
     "abbreviation": "WAVE",
     "expansion": "WWW, Artificial Intelligence, and Virtual Environments Exploration"
+  },
+  {
+    "abbreviation": "WAVE",
+    "expansion": "Water Analysis and Volatile Extraction"
   },
   {
     "abbreviation": "WB",
@@ -104324,47 +104392,43 @@
     "expansion": "Zaragoza, Spain"
   },
   {
-    "abbreviation": "¬∞F",
+    "abbreviation": "∞F",
     "expansion": "Degrees Fahrenheit"
   },
   {
-    "abbreviation": "ŒîT",
-    "expansion": "Delta Temperature"
-  },
-  {
-    "abbreviation": "¬µ",
+    "abbreviation": "µ",
     "expansion": "Micron"
   },
   {
-    "abbreviation": "¬µA",
+    "abbreviation": "µA",
     "expansion": "Microampere"
   },
   {
-    "abbreviation": "¬µF",
+    "abbreviation": "µF",
     "expansion": "Microfarad"
   },
   {
-    "abbreviation": "¬µg",
+    "abbreviation": "µg",
     "expansion": "Microgram"
   },
   {
-    "abbreviation": "¬µm",
+    "abbreviation": "µm",
     "expansion": "Micrometer"
   },
   {
-    "abbreviation": "¬µPA",
+    "abbreviation": "µPA",
     "expansion": "Micropascal"
   },
   {
-    "abbreviation": "¬µS",
+    "abbreviation": "µS",
     "expansion": "Microsecond"
   },
   {
-    "abbreviation": "¬µsec",
+    "abbreviation": "µsec",
     "expansion": "Microsecond"
   },
   {
-    "abbreviation": "¬µV",
+    "abbreviation": "µV",
     "expansion": "microvolts"
   }
 ]
