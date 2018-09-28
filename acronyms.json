@@ -4709,6 +4709,10 @@
   },
   {
     "abbreviation": "APAT",
+    "expansion": "Application Portfolio Assessment Tool"
+  },
+  {
+    "abbreviation": "APAT",
     "expansion": "Acquisition Procurement Advisory Team"
   },
   {
@@ -6162,6 +6166,10 @@
   {
     "abbreviation": "ASFUWG",
     "expansion": "ASF User Working Group"
+  },
+  {
+    "abbreviation": "ASGSR",
+    "expansion": "American Society for Gravitational and Space Research"
   },
   {
     "abbreviation": "ASHRAE",
@@ -8385,6 +8393,10 @@
   },
   {
     "abbreviation": "BEST",
+    "expansion": "Biomolecule Extraction and Sequencing Technology"
+  },
+  {
+    "abbreviation": "BEST",
     "expansion": "Behavior Excellence Strategic Team"
   },
   {
@@ -8854,6 +8866,10 @@
   {
     "abbreviation": "BMCC",
     "expansion": "Boeing Mission Commission Control"
+  },
+  {
+    "abbreviation": "BMCI",
+    "expansion": "Bayesian Monte Carlo Integration"
   },
   {
     "abbreviation": "BMD",
@@ -14560,6 +14576,10 @@
     "expansion": "Climate Absolute Radiance and Refractivity Observatory"
   },
   {
+    "abbreviation": "CLAS",
+    "expansion": "Convergence Layer Adapter"
+  },
+  {
     "abbreviation": "CLASS",
     "expansion": "Cosmology Large Angular Scale Surveyor"
   },
@@ -15478,6 +15498,10 @@
   {
     "abbreviation": "CNMOS",
     "expansion": "Consolidated Network and Mission Operations Support"
+  },
+  {
+    "abbreviation": "CNN",
+    "expansion": "Convolutional Neural Network"
   },
   {
     "abbreviation": "CNN",
@@ -19030,6 +19054,10 @@
   {
     "abbreviation": "CVT",
     "expansion": "Current Value Table"
+  },
+  {
+    "abbreviation": "CVT",
+    "expansion": "Chemical Vapor Transport"
   },
   {
     "abbreviation": "CVTS",
@@ -26150,6 +26178,10 @@
   {
     "abbreviation": "EGU",
     "expansion": "European Geosciences Union"
+  },
+  {
+    "abbreviation": "EGV",
+    "expansion": "Exit Guide Vane"
   },
   {
     "abbreviation": "EH",
@@ -36861,7 +36893,7 @@
   },
   {
     "abbreviation": "GRAM",
-    "expansion": "Global Reference Atmosphere Model"
+    "expansion": "Global Reference Atmospheric Model"
   },
   {
     "abbreviation": "GRAMS",
@@ -52533,6 +52565,10 @@
   },
   {
     "abbreviation": "LSF",
+    "expansion": "Low Stratus and Fog"
+  },
+  {
+    "abbreviation": "LSF",
     "expansion": "Line Spread Function"
   },
   {
@@ -53664,6 +53700,10 @@
     "expansion": "Multi-Angle Imager for Aerosols"
   },
   {
+    "abbreviation": "MAIANSE",
+    "expansion": "MUREP for American Indian and Alaska Native STEM Engagement"
+  },
+  {
     "abbreviation": "MAIF",
     "expansion": "MSS Avionics Integration Facility"
   },
@@ -54214,6 +54254,10 @@
   {
     "abbreviation": "MBM",
     "expansion": "Manual Berthing Mechanism"
+  },
+  {
+    "abbreviation": "MBMA",
+    "expansion": "Model Based Mission Assurance"
   },
   {
     "abbreviation": "MBMS",
@@ -75897,6 +75941,10 @@
   },
   {
     "abbreviation": "PVD",
+    "expansion": "Physical Vapor Deposition"
+  },
+  {
+    "abbreviation": "PVD",
     "expansion": "Purge, Vent, and Drain"
   },
   {
@@ -80613,7 +80661,7 @@
   },
   {
     "abbreviation": "RSB",
-    "expansion": "Rudder SpeedBreak"
+    "expansion": "Research Support Building"
   },
   {
     "abbreviation": "RSB",
@@ -86078,6 +86126,10 @@
   {
     "abbreviation": "SHO",
     "expansion": "Scheduling Order"
+  },
+  {
+    "abbreviation": "SHOC",
+    "expansion": "Simplified Higher Order Closure"
   },
   {
     "abbreviation": "SHOD",
@@ -92724,6 +92776,10 @@
     "expansion": "Space Very Long Baseline Interferometry"
   },
   {
+    "abbreviation": "SVM",
+    "expansion": "Support Vector Machine"
+  },
+  {
     "abbreviation": "SVMF",
     "expansion": "Space Vehicle Mockup Facility"
   },
@@ -96116,6 +96172,10 @@
     "expansion": "Technology Management Team"
   },
   {
+    "abbreviation": "TMT",
+    "expansion": "Thermal Management Technologies"
+  },
+  {
     "abbreviation": "TMTA",
     "expansion": "Thermal Manipulation Module"
   },
@@ -98658,6 +98718,10 @@
   {
     "abbreviation": "UIR",
     "expansion": "Upwelling Infrared Radiometer"
+  },
+  {
+    "abbreviation": "UIS",
+    "expansion": "User Interface Services"
   },
   {
     "abbreviation": "UIS",
@@ -102416,6 +102480,10 @@
     "expansion": "Watchdog Timer"
   },
   {
+    "abbreviation": "WATER",
+    "expansion": "Website, Application, and Technology Enterprise Registry"
+  },
+  {
     "abbreviation": "WATR",
     "expansion": "Western Aeronautical Test Range"
   },
@@ -102430,6 +102498,10 @@
   {
     "abbreviation": "WAVE",
     "expansion": "WWW, Artificial Intelligence, and Virtual Environments Exploration"
+  },
+  {
+    "abbreviation": "WAVE",
+    "expansion": "Water Analysis and Volatile Extraction"
   },
   {
     "abbreviation": "WB",
