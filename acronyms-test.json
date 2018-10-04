@@ -6,5 +6,33 @@
   {
     "abbreviation": "2D",
     "expansion": "Two Dimensional"
+  },
+  {
+    "abbreviation": "2DC",
+    "expansion": "Two-Dimensional Cloud"
+  },
+  {
+    "abbreviation": "2FT",
+    "expansion": "Two-Failure Tolerance"
+  },
+  {
+    "abbreviation": "3D",
+    "expansion": "Three-Dimensional"
+  },
+  {
+    "abbreviation": "3D-WINDS",
+    "expansion": "Three Dimensional Troposheric Windsfrom Space-based Lidar"
+  },
+  {
+    "abbreviation": "3DMAGGS",
+    "expansion": "Three Dimensional Multiblock Advanced Grid Generation System"
+  },
+  {
+    "abbreviation": "3EO",
+    "expansion": "Three Engine Out"
+  },
+  {
+    "abbreviation": "3ROX",
+    "expansion": "Three Rivers Optical Exchange"
   }
 ]
