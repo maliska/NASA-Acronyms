@@ -34,5 +34,365 @@
   {
     "abbreviation": "3ROX",
     "expansion": "Three Rivers Optical Exchange"
+  },
+  {
+    "abbreviation": "3S",
+    "expansion": "Small Satellite System"
+  },
+  {
+    "abbreviation": "3S",
+    "expansion": "SPOT Successor System"
+  },
+  {
+    "abbreviation": "4BMS",
+    "expansion": "Four-Bed Molecular Sieve"
+  },
+  {
+    "abbreviation": "4D",
+    "expansion": "Four-Dimensional"
+  },
+  {
+    "abbreviation": "4GL",
+    "expansion": "Fourth Generation Language"
+  },
+  {
+    "abbreviation": "4SW",
+    "expansion": "Fourth Support Wing"
+  },
+  {
+    "abbreviation": "5D",
+    "expansion": "Five Dimensional"
+  },
+  {
+    "abbreviation": "5HS",
+    "expansion": "Five-Harness Satin"
+  },
+  {
+    "abbreviation": "A",
+    "expansion": "Approved"
+  },
+  {
+    "abbreviation": "A",
+    "expansion": "Aft"
+  },
+  {
+    "abbreviation": "A",
+    "expansion": "Aqua"
+  },
+  {
+    "abbreviation": "A",
+    "expansion": "Ampere"
+  },
+  {
+    "abbreviation": "A",
+    "expansion": "Analysis"
+  },
+  {
+    "abbreviation": "A",
+    "expansion": "Applicable"
+  },
+  {
+    "abbreviation": "A&C",
+    "expansion": "Assembly and Checkout"
+  },
+  {
+    "abbreviation": "A&C",
+    "expansion": "Assembly and Configuration"
+  },
+  {
+    "abbreviation": "A&C",
+    "expansion": "Activation and Checkout"
+  },
+  {
+    "abbreviation": "A&CO",
+    "expansion": "Assembly and Checkout Operation"
+  },
+  {
+    "abbreviation": "A&COTA",
+    "expansion": "Assembly and Checkout Technical Analysis"
+  },
+  {
+    "abbreviation": "A&EM",
+    "expansion": "Assembly and External Maintenance"
+  },
+  {
+    "abbreviation": "A&I",
+    "expansion": "Assembly and Installation"
+  },
+  {
+    "abbreviation": "A&M",
+    "expansion": "Assembly and Manifest"
+  },
+  {
+    "abbreviation": "A&MI",
+    "expansion": "Assembly and Maintenance Integration"
+  },
+  {
+    "abbreviation": "A&MV",
+    "expansion": "Assembly and Maintenance Verification"
+  },
+  {
+    "abbreviation": "A&OSP",
+    "expansion": "Assembly and Operation Support Plan"
+  },
+  {
+    "abbreviation": "A&P",
+    "expansion": "Airframe and Powerplant"
+  },
+  {
+    "abbreviation": "A&R",
+    "expansion": "Automation and Robotics"
+  },
+  {
+    "abbreviation": "A&S",
+    "expansion": "Avionics and Software"
+  },
+  {
+    "abbreviation": "A-E",
+    "expansion": "Architect and Engineer"
+  },
+  {
+    "abbreviation": "A-N",
+    "expansion": "Applicable with Note"
+  },
+  {
+    "abbreviation": "A/A",
+    "expansion": "Air-to-Air"
+  },
+  {
+    "abbreviation": "A/B",
+    "expansion": "Afterburner"
+  },
+  {
+    "abbreviation": "A/C",
+    "expansion": "Aircraft"
+  },
+  {
+    "abbreviation": "A/D",
+    "expansion": "Analog/Digital"
+  },
+  {
+    "abbreviation": "A/E",
+    "expansion": "Ascent/Entry"
+  },
+  {
+    "abbreviation": "A/F",
+    "expansion": "Actual/Forecast"
+  },
+  {
+    "abbreviation": "A/G",
+    "expansion": "Air to Ground"
+  },
+  {
+    "abbreviation": "A/I",
+    "expansion": "Analog Input"
+  },
+  {
+    "abbreviation": "A/L",
+    "expansion": "Airlock"
+  },
+  {
+    "abbreviation": "A/L",
+    "expansion": "Approach and Landing"
+  },
+  {
+    "abbreviation": "A/L",
+    "expansion": "Autoland"
+  },
+  {
+    "abbreviation": "A/L",
+    "expansion": "Ascending Left"
+  },
+  {
+    "abbreviation": "A/M",
+    "expansion": "Approved With Modification"
+  },
+  {
+    "abbreviation": "A/m",
+    "expansion": "Amperes per Meter"
+  },
+  {
+    "abbreviation": "A/N",
+    "expansion": "Army/Navy"
+  },
+  {
+    "abbreviation": "A/P",
+    "expansion": "Autopilot"
+  },
+  {
+    "abbreviation": "A/R",
+    "expansion": "American/Russian"
+  },
+  {
+    "abbreviation": "A/R",
+    "expansion": "Arrival/Return"
+  },
+  {
+    "abbreviation": "A/T",
+    "expansion": "Acceptance Testing"
+  },
+  {
+    "abbreviation": "A/T",
+    "expansion": "Autothrottle"
+  },
+  {
+    "abbreviation": "A/V",
+    "expansion": "Audio/Video"
+  },
+  {
+    "abbreviation": "A2D",
+    "expansion": "Analog to Digital"
+  },
+  {
+    "abbreviation": "A2W",
+    "expansion": "Allies and Advocates for Women"
+  },
+  {
+    "abbreviation": "A3SB",
+    "expansion": "Area Three Support Buildings"
+  },
+  {
+    "abbreviation": "A3SB",
+    "expansion": "Area 3 Support Buildings"
+  },
+  {
+    "abbreviation": "A40",
+    "expansion": "Automation for Operations"
+  },
+  {
+    "abbreviation": "A4A",
+    "expansion": "Airlines for America"
+  },
+  {
+    "abbreviation": "AA",
+    "expansion": "Associate Administrator"
+  },
+  {
+    "abbreviation": "AA",
+    "expansion": "Approved and Assessed"
+  },
+  {
+    "abbreviation": "AA",
+    "expansion": "Ascent Abort"
+  },
+  {
+    "abbreviation": "AA",
+    "expansion": "Antenna Assembly"
+  },
+  {
+    "abbreviation": "AA",
+    "expansion": "Accelerometer Assembly"
+  },
+  {
+    "abbreviation": "AA",
+    "expansion": "Assistant Administrator"
+  },
+  {
+    "abbreviation": "AA&HP",
+    "expansion": "Aerodynamics, Aerothermodynamics, and Hypersonic Propulsion"
+  },
+  {
+    "abbreviation": "AAA",
+    "expansion": "Avionics Air Assembly"
+  },
+  {
+    "abbreviation": "AAA",
+    "expansion": "Allocation, Assessment, and Analysis"
+  },
+  {
+    "abbreviation": "AAA",
+    "expansion": "Assistant Associate Administrator"
+  },
+  {
+    "abbreviation": "AAALAC",
+    "expansion": "Association for Assessment and Accreditation of Laboratory Animal Care"
+  },
+  {
+    "abbreviation": "AAAO",
+    "expansion": "Advanced Analytics and Automation Office"
+  },
+  {
+    "abbreviation": "AAAS",
+    "expansion": "American Association for the Advancement of Science"
+  },
+  {
+    "abbreviation": "AaB",
+    "expansion": "Aeroacoustics Branch"
+  },
+  {
+    "abbreviation": "AAC",
+    "expansion": "Aerosols Above Clouds"
+  },
+  {
+    "abbreviation": "AAC",
+    "expansion": "Aeronautics Advisory Council"
+  },
+  {
+    "abbreviation": "AAC",
+    "expansion": "Aft Access Closure"
+  },
+  {
+    "abbreviation": "AAC",
+    "expansion": "Adaptive Aerospace Corporation"
+  },
+  {
+    "abbreviation": "AAC",
+    "expansion": "Adaptive Augmenting Control"
+  },
+  {
+    "abbreviation": "AACB",
+    "expansion": "Aeronautics and Astronautics Coordinating Board"
+  },
+  {
+    "abbreviation": "AACS",
+    "expansion": "Attitude and Articulation Control Subsystem"
+  },
+  {
+    "abbreviation": "AAD",
+    "expansion": "Audio Annunciation Device"
+  },
+  {
+    "abbreviation": "AAD",
+    "expansion": "Assigned Altitude Deviation"
+  },
+  {
+    "abbreviation": "AADC",
+    "expansion": "Avionics Architecture Design Change"
+  },
+  {
+    "abbreviation": "AADT",
+    "expansion": "Advanced Air Data Transducer"
+  },
+  {
+    "abbreviation": "AAE",
+    "expansion": "Avionics Architectures for Exploration"
+  },
+  {
+    "abbreviation": "AAFE",
+    "expansion": "Aeroassist Flight Experiment"
+  },
+  {
+    "abbreviation": "AAH",
+    "expansion": "Automatic Attitude Hold"
+  },
+  {
+    "abbreviation": "AAH",
+    "expansion": "Advanced Animal Habitat"
+  },
+  {
+    "abbreviation": "AAIMS",
+    "expansion": "Agency Applications Inventory Management System"
+  },
+  {
+    "abbreviation": "AAL",
+    "expansion": "Ask A Librarian"
+  },
+  {
+    "abbreviation": "AAM",
+    "expansion": "Anodic Alumina Membrane"
+  },
+  {
+    "abbreviation": "AAMI",
+    "expansion": "Association for the Advancement of Medical Instrumentation"
   }
 ]
