@@ -2756,6 +2756,10 @@
     "expansion": "Ascent Flight Techniques Panel"
   }, 
   {
+    "abbreviation": "AFTS", 
+    "expansion": "Autonomous Flight Termination System"
+  }, 
+  {
     "abbreviation": "AFV", 
     "expansion": "Anti-flood Valve"
   }, 
@@ -4530,6 +4534,10 @@
   {
     "abbreviation": "AOEA", 
     "expansion": "Assembly Operations and Engineering Assessment"
+  }, 
+  {
+    "abbreviation": "AOGCM", 
+    "expansion": "Atmosphere Ocean General Circulation Model"
   }, 
   {
     "abbreviation": "AOH", 
@@ -7913,11 +7921,11 @@
   }, 
   {
     "abbreviation": "BCAT", 
-    "expansion": "Binary Collodial Alloy Test"
+    "expansion": "Binary Colloidal Alloy Test"
   }, 
   {
-    "abbreviation": "BCAT", 
-    "expansion": "Binary Colloidal Alloy Test"
+    "abbreviation": "BCAT-CS", 
+    "expansion": "Binary Colloidal Alloy Test - Cohesive Sediment"
   }, 
   {
     "abbreviation": "BCAT-KPX", 
@@ -8722,6 +8730,10 @@
   {
     "abbreviation": "Bkup", 
     "expansion": "Backup"
+  }, 
+  {
+    "abbreviation": "BL", 
+    "expansion": "Bond Layer"
   }, 
   {
     "abbreviation": "BL", 
@@ -10666,6 +10678,10 @@
   {
     "abbreviation": "CAMT", 
     "expansion": "Colorado Association for Manufacturing and Technology"
+  }, 
+  {
+    "abbreviation": "CAN", 
+    "expansion": "Change Advocate Network"
   }, 
   {
     "abbreviation": "CAN", 
@@ -24210,6 +24226,10 @@
   {
     "abbreviation": "E", 
     "expansion": "Electromotive Force"
+  }, 
+  {
+    "abbreviation": "E", 
+    "expansion": "Evaporation"
   }, 
   {
     "abbreviation": "E&HS", 
@@ -38225,6 +38245,10 @@
   }, 
   {
     "abbreviation": "HCM", 
+    "expansion": "Human Core Model"
+  }, 
+  {
+    "abbreviation": "HCM", 
     "expansion": "Hand Control Module"
   }, 
   {
@@ -39170,6 +39194,10 @@
   {
     "abbreviation": "HIWG", 
     "expansion": "Housekeeping Integration Working Group"
+  }, 
+  {
+    "abbreviation": "HIWRAP", 
+    "expansion": "High-Altitude Imaging Wind and Rain Airborne Profiler"
   }, 
   {
     "abbreviation": "HK", 
@@ -40990,6 +41018,10 @@
   {
     "abbreviation": "IA", 
     "expansion": "Information Assurance"
+  }, 
+  {
+    "abbreviation": "IA", 
+    "expansion": "Implementing Arrangement"
   }, 
   {
     "abbreviation": "IA", 
@@ -42922,6 +42954,10 @@
   {
     "abbreviation": "IFSR", 
     "expansion": "Integrated Flight Software Requirement"
+  }, 
+  {
+    "abbreviation": "IFT", 
+    "expansion": "Interlinked Flux Tube"
   }, 
   {
     "abbreviation": "IFT", 
@@ -45829,6 +45865,10 @@
   }, 
   {
     "abbreviation": "ISA", 
+    "expansion": "Israel Space Agency"
+  }, 
+  {
+    "abbreviation": "ISA", 
     "expansion": "Impervious Surface Area"
   }, 
   {
@@ -46662,6 +46702,10 @@
   {
     "abbreviation": "ITEPC", 
     "expansion": "Inter-Mars Tissue Equivalent Proportional Counter"
+  }, 
+  {
+    "abbreviation": "ITER", 
+    "expansion": "International Thermonuclear Experimental Reactor"
   }, 
   {
     "abbreviation": "ITF", 
@@ -58028,6 +58072,10 @@
     "expansion": "Mars Organic Molecule Analyzer"
   }, 
   {
+    "abbreviation": "MOMA-MS", 
+    "expansion": "Mars Organic Molecule Analyzer - Mass Spectrometer"
+  }, 
+  {
     "abbreviation": "MOMS", 
     "expansion": "Mission Operations/Mission Services"
   }, 
@@ -61561,7 +61609,7 @@
   }, 
   {
     "abbreviation": "NCC", 
-    "expansion": "Nominal Corrective Combination Maneuver"
+    "expansion": "No Chase COA"
   }, 
   {
     "abbreviation": "NCC", 
@@ -61974,6 +62022,10 @@
   {
     "abbreviation": "NEAT", 
     "expansion": "NASA Employee Attendance Tracking"
+  }, 
+  {
+    "abbreviation": "NEAT", 
+    "expansion": "NASA Electric Aircraft Testbed"
   }, 
   {
     "abbreviation": "NEBA", 
@@ -62612,6 +62664,10 @@
     "expansion": "NASA Headquarters"
   }, 
   {
+    "abbreviation": "NHT", 
+    "expansion": "Nested Hall Thruster"
+  }, 
+  {
     "abbreviation": "NHV", 
     "expansion": "Net Habitable Volume"
   }, 
@@ -62722,6 +62778,10 @@
   {
     "abbreviation": "NIEP", 
     "expansion": "Natural and Induced Environments Panel"
+  }, 
+  {
+    "abbreviation": "NIF", 
+    "expansion": "NASA Industry Forum"
   }, 
   {
     "abbreviation": "NIF", 
@@ -70238,6 +70298,10 @@
   {
     "abbreviation": "PDI", 
     "expansion": "Payload Data Interleaver"
+  }, 
+  {
+    "abbreviation": "PDI", 
+    "expansion": "Phase Doppler Interferometry"
   }, 
   {
     "abbreviation": "PDI", 
@@ -85996,6 +86060,10 @@
     "expansion": "Svalbard Ground Station"
   }, 
   {
+    "abbreviation": "SGSLR", 
+    "expansion": "Space Geodesy Satellite Laser Ranging"
+  }, 
+  {
     "abbreviation": "SGSS", 
     "expansion": "Space Network Ground Segment Sustainment"
   }, 
@@ -86102,6 +86170,10 @@
   {
     "abbreviation": "SHFL", 
     "expansion": "Space Human Factors Laboratories"
+  }, 
+  {
+    "abbreviation": "SHIIVER", 
+    "expansion": "Structural Heat Intercept, Insulation, and Vibration Evaluation Rig"
   }, 
   {
     "abbreviation": "Shldr", 
@@ -93028,6 +93100,10 @@
     "expansion": "Soft Ware Identification"
   }, 
   {
+    "abbreviation": "SWIFT", 
+    "expansion": "Sustainable Water Initiative for Tomorrow"
+  }, 
+  {
     "abbreviation": "Swift", 
     "expansion": "Swift Gamma Ray Burst Explosion"
   }, 
@@ -93218,6 +93294,10 @@
   {
     "abbreviation": "t", 
     "expansion": "thickness"
+  }, 
+  {
+    "abbreviation": "T", 
+    "expansion": "Transpiration"
   }, 
   {
     "abbreviation": "t", 
@@ -100014,6 +100094,10 @@
   {
     "abbreviation": "VADR", 
     "expansion": "Volcanic Ash Distribution Rig"
+  }, 
+  {
+    "abbreviation": "VAELA", 
+    "expansion": "Virginia Academy of Elder Law Attorneys"
   }, 
   {
     "abbreviation": "VAFB", 
