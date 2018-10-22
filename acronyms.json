@@ -285,6 +285,10 @@
   }, 
   {
     "abbreviation": "AA", 
+    "expansion": "Aluminum Alloy"
+  }, 
+  {
+    "abbreviation": "AA", 
     "expansion": "Assistant Administrator"
   }, 
   {
@@ -2406,6 +2410,10 @@
   {
     "abbreviation": "AEVA", 
     "expansion": "Advanced Extra Vehicular Activitiy"
+  }, 
+  {
+    "abbreviation": "AEW", 
+    "expansion": "African Easterly Wave"
   }, 
   {
     "abbreviation": "AF", 
@@ -12670,6 +12678,10 @@
   {
     "abbreviation": "CDS", 
     "expansion": "Correlated Double Sampler"
+  }, 
+  {
+    "abbreviation": "CDS", 
+    "expansion": "Conceptual Design Shop"
   }, 
   {
     "abbreviation": "CDS", 
@@ -26176,6 +26188,10 @@
     "expansion": "European Geophysical Society"
   }, 
   {
+    "abbreviation": "EGS", 
+    "expansion": "Exploration Ground Systems"
+  }, 
+  {
     "abbreviation": "EGSE", 
     "expansion": "Experiment Ground Support Equipment"
   }, 
@@ -27226,6 +27242,10 @@
   {
     "abbreviation": "ENET", 
     "expansion": "Ethernet"
+  }, 
+  {
+    "abbreviation": "ENF", 
+    "expansion": "End Notched Flexure"
   }, 
   {
     "abbreviation": "ENG", 
@@ -29826,6 +29846,10 @@
   {
     "abbreviation": "EVES", 
     "expansion": "Extravehicular Life Support System"
+  }, 
+  {
+    "abbreviation": "EVI", 
+    "expansion": "Enhanced Vegetation Index"
   }, 
   {
     "abbreviation": "EVI", 
@@ -63384,6 +63408,10 @@
     "expansion": "Navy Navigational Satellite System"
   }, 
   {
+    "abbreviation": "NNSS", 
+    "expansion": "Nevada Nuclear Security Site"
+  }, 
+  {
     "abbreviation": "NO", 
     "expansion": "Number"
   }, 
@@ -66190,6 +66218,10 @@
   {
     "abbreviation": "OGS", 
     "expansion": "Oxygen Generation System"
+  }, 
+  {
+    "abbreviation": "OGV", 
+    "expansion": "Outlet Guide Vane"
   }, 
   {
     "abbreviation": "OH", 
@@ -75493,7 +75525,7 @@
   }, 
   {
     "abbreviation": "PTC", 
-    "expansion": "Passive Thermal Conrol"
+    "expansion": "Predictive Thermal Control"
   }, 
   {
     "abbreviation": "PTC", 
@@ -79670,6 +79702,10 @@
   {
     "abbreviation": "RMIS", 
     "expansion": "Resources Management Information System"
+  }, 
+  {
+    "abbreviation": "RMIT", 
+    "expansion": "Rapid Model Import Tool"
   }, 
   {
     "abbreviation": "RMIT", 
@@ -87476,6 +87512,10 @@
     "expansion": "Shape Memory Alloy"
   }, 
   {
+    "abbreviation": "SMA", 
+    "expansion": "Secondary Mirror Assembly"
+  }, 
+  {
     "abbreviation": "SMAAART", 
     "expansion": "Structures, Materials, Aerodynamics, Aerothermodynamics, and Acoustics Research Technology"
   }, 
@@ -88898,6 +88938,10 @@
   {
     "abbreviation": "SPA", 
     "expansion": "Shuttle Processing Area"
+  }, 
+  {
+    "abbreviation": "SPACE", 
+    "expansion": "System Power Analysis for Capability Evaluation"
   }, 
   {
     "abbreviation": "SPACE", 
