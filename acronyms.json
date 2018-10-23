@@ -11225,6 +11225,10 @@
   }, 
   {
     "abbreviation": "CB", 
+    "expansion": "Climatological Background"
+  }, 
+  {
+    "abbreviation": "CB", 
     "expansion": "Clean Bench"
   }, 
   {
@@ -16964,6 +16968,10 @@
     "expansion": "Cross Program Systems Integration"
   }, 
   {
+    "abbreviation": "CPSM", 
+    "expansion": "Chemical Propulsion Subcapabilities Management"
+  }, 
+  {
     "abbreviation": "CPSR", 
     "expansion": "Contractor Purchasing System Review"
   }, 
@@ -21210,6 +21218,10 @@
   {
     "abbreviation": "DF", 
     "expansion": "Data Frame"
+  }, 
+  {
+    "abbreviation": "DF", 
+    "expansion": "Digital Filtering"
   }, 
   {
     "abbreviation": "DF", 
@@ -30885,6 +30897,10 @@
   }, 
   {
     "abbreviation": "FCM", 
+    "expansion": "Facility Configuration Management"
+  }, 
+  {
+    "abbreviation": "FCM", 
     "expansion": "Fracture Control Monitor"
   }, 
   {
@@ -30898,6 +30914,10 @@
   {
     "abbreviation": "FCM", 
     "expansion": "Flight Control Monitoring"
+  }, 
+  {
+    "abbreviation": "FCMS", 
+    "expansion": "Facility Configuration Management System"
   }, 
   {
     "abbreviation": "FCMS", 
@@ -35072,6 +35092,10 @@
     "expansion": "GEWEX Continental-Phase International Project"
   }, 
   {
+    "abbreviation": "GCL", 
+    "expansion": "Geometric Conservation Law"
+  }, 
+  {
     "abbreviation": "GCLDC", 
     "expansion": "Global Change Landsat Data Collection"
   }, 
@@ -36898,6 +36922,10 @@
   {
     "abbreviation": "GPVP", 
     "expansion": "Generic Payload Verification Plan"
+  }, 
+  {
+    "abbreviation": "GPWG", 
+    "expansion": "Green Propulsion Working Group"
   }, 
   {
     "abbreviation": "GPWS", 
@@ -46052,6 +46080,10 @@
     "expansion": "International Sun-Earth Explorer"
   }, 
   {
+    "abbreviation": "iSEE", 
+    "expansion": "immersive Simulations and Engineering Environment"
+  }, 
+  {
     "abbreviation": "iSEEP", 
     "expansion": "IVA Resuppliable Small Exposed Experiment Platform"
   }, 
@@ -46546,6 +46578,10 @@
   {
     "abbreviation": "ISU", 
     "expansion": "International System Unit"
+  }, 
+  {
+    "abbreviation": "ISV", 
+    "expansion": "Internal State Variable"
   }, 
   {
     "abbreviation": "ISV", 
@@ -50980,6 +51016,10 @@
     "expansion": "Laser Interferometer Gravitational-Wave Observatory"
   }, 
   {
+    "abbreviation": "LILT", 
+    "expansion": "Low Irradiance Low Temperature"
+  }, 
+  {
     "abbreviation": "LIM", 
     "expansion": "Logistics Inventory Management"
   }, 
@@ -54098,6 +54138,10 @@
   {
     "abbreviation": "MASE", 
     "expansion": "System Analysis/System Engineering"
+  }, 
+  {
+    "abbreviation": "MASH", 
+    "expansion": "Minimalistic Advanced Softgoods Hatch"
   }, 
   {
     "abbreviation": "MASS", 
@@ -63286,6 +63330,10 @@
   {
     "abbreviation": "NMDS", 
     "expansion": "Network Management Data Service"
+  }, 
+  {
+    "abbreviation": "NME", 
+    "expansion": "New Moon Explorer"
   }, 
   {
     "abbreviation": "NME", 
@@ -88045,6 +88093,10 @@
   }, 
   {
     "abbreviation": "SMT", 
+    "expansion": "Satisfiability Modulo Theories"
+  }, 
+  {
+    "abbreviation": "SMT", 
     "expansion": "Science Management Team"
   }, 
   {
@@ -89982,6 +90034,10 @@
   {
     "abbreviation": "SR", 
     "expansion": "Support Requirements"
+  }, 
+  {
+    "abbreviation": "SR", 
+    "expansion": "Space Radiation"
   }, 
   {
     "abbreviation": "SR", 
@@ -100446,6 +100502,10 @@
   {
     "abbreviation": "VCC", 
     "expansion": "Vertical Cargo Carrier"
+  }, 
+  {
+    "abbreviation": "VCCT", 
+    "expansion": "Virtual Crack Closure Technique"
   }, 
   {
     "abbreviation": "VCCTEF", 
