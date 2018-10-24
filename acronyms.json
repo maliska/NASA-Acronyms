@@ -10372,6 +10372,10 @@
     "expansion": "CERES Angular Distribution Model"
   }, 
   {
+    "abbreviation": "CADR", 
+    "expansion": "Continous Adiabatic Demagnetization Refrigerator"
+  }, 
+  {
     "abbreviation": "CADRe", 
     "expansion": "Cost Analysis Data Requirement"
   }, 
@@ -39460,12 +39464,12 @@
     "expansion": "Health Management Indication Interrupt"
   }, 
   {
-    "abbreviation": "HMMR", 
-    "expansion": "High-Resolution Multi-frequency Microwave Radiometer"
+    "abbreviation": "HMM", 
+    "expansion": "Hidden Markov Model"
   }, 
   {
     "abbreviation": "HMMR", 
-    "expansion": "High-Resolution Multifrequency Microwave Radiometer"
+    "expansion": "High-Resolution Multi-frequency Microwave Radiometer"
   }, 
   {
     "abbreviation": "HMN", 
